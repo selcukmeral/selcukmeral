@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a **software developer and software consultant
+I am a software developer and software consultant
 
 - 🔭 I’m currently working on **Java, Spring Boot, Microservices
 - 🌱 I’m currently learning **React Native, Kubernetes, Angular
